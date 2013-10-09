@@ -25,5 +25,6 @@ using NuPIC.
 
 A Makefile is provided should you need to reconstruct this environment.
 
+    cd nupic-darwin64
     source bin/activate
     make
